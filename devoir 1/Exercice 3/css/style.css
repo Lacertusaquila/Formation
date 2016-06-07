@@ -1,0 +1,31 @@
+
+div {
+    width: 120px;
+    height: 300px;
+    display: inline-block;
+    margin:-2px;
+}
+
+#color1 {
+    background-color: #84BEFF;
+}
+
+#color2 {
+    background-color: #288FFf;
+}
+
+#color3 {
+    background-color: #005ABF;
+}
+
+#color4 {
+    background-color: #003672;
+}
+
+#color5 {
+    background-color: #001935;
+}
+
+#color6 {
+    background-color: #000000;
+}

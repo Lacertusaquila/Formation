@@ -1,0 +1,30 @@
+#color1 {
+    border : 10px solid #FF0000;
+}
+
+#color2 {
+    border : 10px solid #FF9204;
+}
+
+#color3 {
+  border : 10px solid #FFF000;
+}
+
+#color4 {
+   border : 10px solid #079F1D;
+}
+
+#color5 {
+    border : 10px solid #074F9F;
+}
+
+#color6 {
+    border : 10px solid #8231cd;    
+}
+p 
+{
+    margin: 0px;
+    background: #8231cd;    
+    text-align: center;
+
+}

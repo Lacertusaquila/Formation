@@ -1,0 +1,11 @@
+En modifiant index.html et style.css faites apparaitre 5 rectangles :
+
+-Les rectangles doivent faire chacun toute la largeur de l'écran
+-La hauteur total des 5 rectangles cumulées doit remplir l'écran
+-Les rectangles doivent tous faire la même taille, sauf le 2ème qui doit être 2 fois plus grand.
+-à l'intérieur de ces rectangles doit apparaitre un texte blanc "Rectangle numéro x" centré horizontalement et verticalement.
+-Ce texte doit apparaitre en majuscule à l'écran, mais être écrit en minuscule dans le html.
+-Ces rectangles doivent avoir un fond de couleur, dans l'ordre : rouge, vert, jaune, bleu et orange.
+-Sur la droite, un espace de 50px doit apparaitre, alternant les fonds blanc et noir à chaque rectangle, vous n'avez pas le droit d'utiliser "border".
+
+Pour cet exercice, pensez à vous servir des flexbox.

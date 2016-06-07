@@ -1,0 +1,72 @@
+@font-face {
+    font-family: 'calligraffitiregular';
+    src: url('../fonts/Calligraffiti-webfont.eot');
+    src: url('../fonts/Calligraffiti-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/Calligraffiti-webfont.woff') format('woff'),
+         url('../fonts/Calligraffiti-webfont.ttf') format('truetype'),
+         url('../fonts/Calligraffiti-webfont.svg#calligraffitiregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+header
+{
+    display: flex;
+    background-color: cyan;
+    
+}
+ul
+{
+    display: flex;
+    list-style-type: none;
+    justify-content: space-between;
+    
+}
+ul li
+{
+    margin-right: 10px;
+}
+body
+{
+    background-color: #CCCCCC;
+}
+footer
+{
+    background-color: green;
+}
+#in{
+    background: url("../img/aix.PNG") no-repeat;
+    width: 150px;
+}
+#in:active
+{
+    flex: 2;
+}
+
+#sep
+{
+  
+    width: 600px;
+    height: 2px;
+    background-color: #000000;
+}
+h1
+{
+    font-family: 'calligraffitiregular',Arial,serif;
+    color: brown;
+}
+h2
+{
+    color:green;
+    font-family: Arial,serif;
+}
+div{
+    padding-top: 20px;
+    background-color: red;
+    width : 100px;
+    height: 150px;
+}
+p
+{
+   text-align: justify; 
+}

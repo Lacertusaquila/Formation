@@ -1,0 +1,13 @@
+Ouvrez le fichier intex.html, en modifiant uniquement le fichier style.css, faites en sorte que :
+
+-Quand on passe la souris dans le premier rectangle, le premier paragraphe doit être surligné en vert.
+-Le texte "Bonjour, je suis le second texte" soit en italique.
+-Le texte "Aurevoir, je m'en vais" soit en bleu.
+-Le deuxième rectangle ait un fond vert.
+-Une case sur deux du tableau doit avoir un fond jaune.
+-Les cases de la 2ème colonne doivent avoir un fond marron.
+-Les cases de la 3ème ligne doivent avoir un fond marron.
+-La case à la 2ème colonne et de la 3ème ligne doit avoir un fond noir et une police d'écriture blanche.
+-Dans le quatrième rectangle, faire apparaitre une rectangle jaune de 20px de hauteur à l'intéreur du rectangle rouge, sans utiliser "height".
+
+Penser à vous servir des selecteurs avancés : http://www.w3schools.com/cssref/css_selectors.asp
