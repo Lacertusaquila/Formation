@@ -32,3 +32,31 @@ body>div>div {
 /*
 ** Compléter le fichier ici :
 */
+p+p  {
+	font-style: italic;
+	
+}
+i+p {
+	color:blue;
+}
+td:nth-child(2n+2){
+	background-color: yellow;
+}
+
+div:nth-child(2){
+	background: green;
+}
+
+td:nth-child(2){
+	background-color: brown;
+	color:white;
+}
+tr:nth-child(2){
+	background-color: brown;
+	color:white;
+}
+body>div>div>div {
+
+	background: green;
+	padding: 10px;
+}
