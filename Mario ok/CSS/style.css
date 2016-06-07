@@ -1,0 +1,73 @@
+@font-face {
+    font-family: 'GeosansLight';
+    src: url('../fonts/GeosansLight.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+
+}
+body{
+	background-image: url("../imgs/wallpaper.jpg");
+	background-color: #965E24;
+	background-repeat: repeat-x;
+}
+h1
+{
+	text-align: center;
+    font-family: 'GeosansLight',Arial,serif;
+}
+h2
+{
+	text-align: center;
+  
+}
+ul{
+	margin-left: 20%;
+	margin-right: 20%;
+	background-color: blue;
+	display: flex;
+	list-style-type: none;
+	 justify-content: center;
+}
+ul>li{
+	 padding-right: 10px;
+	 color: white;
+}
+.redhover:hover {
+	background-color: red;
+}
+#greenhover:hover{
+	background-color: green;
+}
+#cube1{
+	width: 100px;
+	height:30px;
+	position :absolute;
+	left: 4000px;
+	top:200px;
+	background-image: url("../imgs/cube1.png");
+	background-size:100px 30px;
+	-webkit-animation: cube1 10s infinite;
+	 animation: cube1 10s infinite;
+}
+@-webkit-keyframes cube1 {
+    0%   {top: 100px;
+    	left: 400px;}
+    25%  {top: 300px;
+    	left: 550px;}
+    35%  {top: 520px;}
+    55%  {top: 150px;
+    	left: 500px;}
+    100% {top: 100px;
+    	left: 400px;}
+}
+@keyframes mymove {
+ 	0%   {top: 100px;
+    	left: 400px;}
+    25%  {top: 300px;
+    	left: 550px;}
+    35%  {top: 520px;}
+    55%  {top: 150px;
+    	left: 500px;}
+    100% {top: 100px;
+    	left: 400px;}
+}

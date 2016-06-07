@@ -1,0 +1,8 @@
+Pour cette exercice, il faut intégrer des images fournis dans le fichier rar.
+
+- Les animations se font sur les cubes. (Rechercher comment fonctionne @keyframes) ok 
+- Il faudra installer la favicon ok
+- il faut faire un menu qu'il faudra centré , avec un background bleu qui prend 20% de la large. ok
+- il y a un effet hover rouge sur accueil et à propos. il y a un effet hover vert sur Contact ok
+- Le h1 est fait avec une police que vous aurez installé (fournis dans le rar) ok
+- le wallpaper est trop petit, du coup il superpose un background-color marron ok
