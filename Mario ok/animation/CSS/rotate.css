@@ -1,0 +1,13 @@
+#anime1{
+	height:120px;
+	width: 120px;
+	border: green 10px solid;
+	margin: 200px;
+	transition: 5s;
+	
+}
+#anime1:active{
+	border-color: red;
+	border-radius: 100%;
+	transform: rotate(1000deg);
+}
